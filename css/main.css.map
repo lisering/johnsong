@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.scss"],"names":[],"mappings":"AAIA;EACE,uBAHU,EAIX","file":"main.css","sourcesContent":["//variables\r\n\r\n$color: blue;\r\n\r\nbody {\r\n  background-color: $color;\r\n}"],"sourceRoot":"/source/"}
